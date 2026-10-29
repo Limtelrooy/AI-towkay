@@ -1,0 +1,12 @@
+{
+  "scenes": [
+    {"title": "Another opening-hours enquiry?", "seconds": 6, "narration": "Running a small restaurant? Repeated customer questions can interrupt the work in front of you.", "visual": "Placeholder: owner viewing an enquiry"},
+    {"title": "A fictional example", "seconds": 6, "narration": "Here is Little Lotus, a fictional Vietnamese restaurant. These example details are invented for this demonstration.", "visual": "Placeholder: fictional restaurant profile"},
+    {"title": "Start with approved details", "seconds": 6, "narration": "Our example opening time is noon. Dietary questions must go to a staff member for checking.", "visual": "Missing recording: approved business information sheet"},
+    {"title": "Customer asks a question", "seconds": 6, "narration": "A customer asks: what time do you open, and can you handle a peanut allergy?", "visual": "Placeholder: sanitised customer message"},
+    {"title": "Write a careful draft", "seconds": 6, "narration": "My manually written draft says: we open at noon. Please ask our team about your allergy before ordering.", "visual": "Missing recording: manually drafted reply"},
+    {"title": "Keep a human check", "seconds": 6, "narration": "The limit: this is a text mock-up, not a tested chatbot. No allergy assurance should be automated.", "visual": "Placeholder: staff review checkpoint"},
+    {"title": "Test before making claims", "seconds": 6, "narration": "Next, I would test draft replies against real, sanitised questions. I have not measured any time savings.", "visual": "Missing recording: future test log"},
+    {"title": "Start with one enquiry type", "seconds": 6, "narration": "Want to explore a narrow enquiry-drafting pilot? Bring one repeated question and your approved business information.", "visual": "Placeholder: call to action card"}
+  ]
+}
