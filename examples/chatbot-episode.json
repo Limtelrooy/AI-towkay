@@ -1,0 +1,17 @@
+{
+  "title": "Would your restaurant chatbot make up an answer?",
+  "restaurant": "LITTLE LOTUS · FICTIONAL",
+  "scenes": [
+    {"seconds": 4, "mode": "hook", "progress": "THE CONFIDENCE TRAP", "expression": "confident", "headline": "Confident.\nStill wrong?", "bubbles": [], "narration": "Your chatbot can answer confidently—and still be wrong."},
+    {"seconds": 2, "mode": "chat", "progress": "Question 1", "expression": "confident", "bubbles": [{"who": "CUSTOMER", "text": "What time do you open?"}], "narration": "What time do you open?"},
+    {"seconds": 3, "mode": "fact", "progress": "Question 1", "expression": "thoughtful", "bubbles": [{"who": "CUSTOMER", "text": "What time do you open?"}], "fact": "Opening time: 12 noon.", "narration": "Approved fact: opening time, twelve noon."},
+    {"seconds": 2, "mode": "chat", "progress": "Question 1", "expression": "confident", "bubbles": [{"who": "CUSTOMER", "text": "What time do you open?"}, {"who": "DRAFT REPLY", "text": "We open at 12 noon."}], "narration": "We open at twelve noon."},
+    {"seconds": 2, "mode": "chat", "progress": "Question 2", "expression": "thoughtful", "bubbles": [{"who": "CUSTOMER", "text": "Can I bring my dog?"}], "narration": "Can I bring my dog?"},
+    {"seconds": 2, "mode": "fact", "progress": "Question 2", "expression": "thoughtful", "bubbles": [{"who": "CUSTOMER", "text": "Can I bring my dog?"}], "fact": "Pet policy: not provided.", "narration": "No pet policy in the fact sheet."},
+    {"seconds": 2, "mode": "false", "progress": "Question 2", "expression": "confident", "bubbles": [{"who": "CUSTOMER", "text": "Can I bring my dog?"}, {"who": "WRONG DRAFT · NO EVIDENCE", "text": "Yes, dogs are welcome!"}], "narration": "Yes, dogs are welcome!"},
+    {"seconds": 3, "mode": "freeze", "progress": "Question 2 · FREEZE", "expression": "shocked", "bubbles": [{"who": "CUSTOMER", "text": "Can I bring my dog?"}, {"who": "WRONG DRAFT · NO EVIDENCE", "text": "Yes, dogs are welcome!"}], "narration": "Freeze. That answer was made up."},
+    {"seconds": 3, "mode": "repair", "progress": "Question 2 · HUMAN CHECK", "expression": "thoughtful", "bubbles": [{"who": "CUSTOMER", "text": "Can I bring my dog?"}, {"who": "REPLACEMENT DRAFT", "text": "Let me check with our team."}], "narration": "Let me check with our team."},
+    {"seconds": 3, "mode": "lesson", "progress": "THE TAKEAWAY", "expression": "thoughtful", "headline": "Facts.\nThen a fallback.", "bubbles": [], "narration": "Useful bots need facts—and a way to say ‘I don’t know.’"},
+    {"seconds": 5, "mode": "close", "progress": "MORE PRACTICAL TESTS", "expression": "confident", "headline": "Follow\nAI Towkay Lab", "bubbles": [], "narration": "Follow AI Towkay Lab for practical business AI tests."}
+  ]
+}

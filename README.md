@@ -2,6 +2,8 @@
 
 A faceless content channel demonstrating practical AI workflows for small businesses.
 
+Latest: [conversation-led robot-host episode and recording instructions](CREATIVE_EPISODE.md).
+
 For the shorter animated opening-hours mock-up, see [Phase 2 instructions](PHASE2.md).
 
 First milestone: create one vertical sample video using fictional restaurant information, text slides and placeholder visuals.

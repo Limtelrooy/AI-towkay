@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 350">
+<title>AI Towkay Lab original simple vector robot: thoughtful</title>
+<line x1="150" y1="26" x2="150" y2="54" stroke="#262420" stroke-width="9"/>
+<ellipse cx="150.0" cy="18.0" rx="14.0" ry="14.0" fill="#F45A1C"/>
+<rect x="14" y="103" width="36" height="66" rx="12" fill="#F45A1C"/>
+<rect x="250" y="103" width="36" height="66" rx="12" fill="#F45A1C"/>
+<rect x="34" y="50" width="232" height="173" rx="40" fill="#F45A1C"/>
+<rect x="54" y="74" width="192" height="121" rx="30" fill="#262420"/>
+<rect x="124" y="212" width="52" height="35" rx="10" fill="#262420"/>
+<rect x="66" y="237" width="168" height="83" rx="28" fill="#F45A1C"/>
+<rect x="20" y="252" width="45" height="37" rx="14" fill="#262420"/>
+<rect x="235" y="252" width="45" height="37" rx="14" fill="#262420"/>
+<rect x="88" y="308" width="44" height="33" rx="10" fill="#262420"/>
+<rect x="168" y="308" width="44" height="33" rx="10" fill="#262420"/>
+<ellipse cx="150.0" cy="274.0" rx="16.0" ry="16.0" fill="#FFF4DF"/>
+<rect x="82" y="113" width="36" height="16" rx="7" fill="#FFF4DF"/>
+<ellipse cx="200.0" cy="117.0" rx="16.0" ry="16.0" fill="#FFF4DF"/>
+<line x1="132" y1="164" x2="168" y2="157" stroke="#FFF4DF" stroke-width="7"/>
+<line x1="81" y1="91" x2="117" y2="99" stroke="#F45A1C" stroke-width="7"/>
+</svg>
