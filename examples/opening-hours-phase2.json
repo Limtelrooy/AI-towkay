@@ -1,0 +1,11 @@
+{
+  "restaurant": "Little Lotus · fictional restaurant",
+  "scenes": [
+    {"seconds": 4, "kind": "hook", "label": "THE DAILY REPEAT", "text": "Still answering\nthe same customer\nquestion?", "narration": "Still answering the same customer question?"},
+    {"seconds": 4, "kind": "message", "label": "FICTIONAL CUSTOMER", "text": "What time\ndo you open?", "narration": "A customer asks: what time do you open?"},
+    {"seconds": 5, "kind": "fact", "label": "APPROVED FACT SHEET · EXAMPLE", "text": "Opening time:\n12 noon.", "narration": "Start with an approved fact sheet. Opening time: twelve noon."},
+    {"seconds": 5, "kind": "reply", "label": "DRAFT REPLY · STAFF REVIEW", "text": "We open\nat 12 noon.", "narration": "Use that approved detail in a draft: we open at twelve noon."},
+    {"seconds": 7, "kind": "handoff", "label": "UNKNOWN QUESTION → HUMAN", "text": "Peanut-free guarantee?\n\nNot in the fact sheet.\nAsk a staff member.", "narration": "A peanut-free guarantee? That is not in the fact sheet. Hand it to a human. Never guess."},
+    {"seconds": 5, "kind": "close", "label": "AI TOWKAY LAB", "text": "Which customer\nquestion do you\nanswer every day?", "narration": "Which customer question do you answer every day?"}
+  ]
+}
