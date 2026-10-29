@@ -1,0 +1,10 @@
+{
+  "restaurant": "Little Wok Kitchen",
+  "label": "FICTIONAL RESTAURANT / DEMO",
+  "slides": [
+    {"title": "Big flavour.\nSmall lunch break.", "body": "Meet Little Wok Kitchen.\nAn imaginary neighbourhood favourite.", "accent": "#F5B544"},
+    {"title": "Your lunch,\nfresh from the wok.", "body": "Placeholder menu\nBasil rice bowl / Crispy tofu\nChilli noodles", "accent": "#76C5B1"},
+    {"title": "A simple idea.\nA useful AI workflow.", "body": "Turn a short business brief\ninto clear text slides\nand a vertical video.", "accent": "#91ABEF"},
+    {"title": "Make your next\nstory a short video.", "body": "Brief > Script > Slides > Export\nCreated with Python + FFmpeg\nAI Towkay Lab", "accent": "#F5B544"}
+  ]
+}

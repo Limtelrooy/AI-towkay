@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+output/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.tmp
+*.log
+.DS_Store

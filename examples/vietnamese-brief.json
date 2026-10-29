@@ -1,0 +1,13 @@
+{
+  "restaurant": "Little Lotus Vietnamese Kitchen",
+  "topic": "Drafting a reply to a restaurant customer enquiry",
+  "audience_problem": "Owners repeatedly answer opening-hours and dietary questions.",
+  "business_data": "Fictional Singapore restaurant. Example hours: Tuesday to Sunday, noon to 9 pm. Dietary questions must go to staff.",
+  "source_urls": [],
+  "experiment_notes": "No AI tool or live customer workflow has been tested. This is a manually written storyboard demonstration.",
+  "claims": [
+    {"text": "This example restaurant opens at noon.", "category": "fictional", "evidence": "Invented example hours above."},
+    {"text": "An automated reply would save two hours every day.", "category": "untested_assumption", "evidence": "No measured trial. Exclude from the script."}
+  ],
+  "rights_notes": "Original manually written demo text and generated geometric shapes only. No third-party footage, music, voice or mascot supplied."
+}
